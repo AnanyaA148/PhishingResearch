@@ -8,3 +8,4 @@ pip install numpy #numpy package
 # Datasets
 https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning (Phishing websites)
 https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset (Phishing Emails)
+https://www.kaggle.com/datasets/bagavathypriya/spam-ham-dataset?resource=download (Phishing emails)
